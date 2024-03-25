@@ -1,0 +1,15 @@
+{
+  "name": "marvelmockapi",
+  "version": "1.0.0",
+  "description": "Mock API for local testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ignacio Galliano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
