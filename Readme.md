@@ -9,3 +9,9 @@ How to run?
 1) Clone this repository
 2) Run ```npm install``` in the root of the folder
 3) Run ```npm start```. If the port 300 is free, it will start
+
+If you want to use the original API <a href="https://developer.marvel.com/documentation/generalinfo">here is the link</a>
+
+Thanks for read, bye! 
+
+Nacho.
