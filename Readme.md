@@ -2,7 +2,7 @@
     <img alt="Prometheus" src="https://github.com/IgnacioGalliano/MarvelMockAPI/blob/main/Assets/Marvel-Studios-Logo-2008.png?raw=true"><br>Marvel API Mock
 </h1>
 
-This mock was created to simulate the original Marvel API in cases such as when the original API is down or for unit tests, for example.
+This mock was created to simulate the original Marvel API in cases such as when the original API is down or for UITests, for example.
 
 How to run?
 
